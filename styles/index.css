@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700&display=swap");
+
+*{
+  font-family: Quicksand !important;
+  }
+
+/*{
+   margin: 0;
+   padding: 0;
+  }
+
+    .background {
+        background: url("./ChatSphere.png");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;          
+        }*/
+.container h1{
+  color: black;
+  text-align: center;
+  position: center; 
+  height: 0px;
+}
+
+.container p{
+  color: black;
+  text-align: center;
+  position: center ; 
+
+  width: 110%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 10px;
+}
+
+
+/* content: '@urkey88';
+	display: inline-block;
+	position: relative;top: 00px; left: 900px;
+	width: 200px;
+	height: 16px;
+	line-height: 16px;
+	font-family: var(--font-headline);
+	font-size: 11px;
+	font-weight: 600; */
